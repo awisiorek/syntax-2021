@@ -20,7 +20,7 @@ Tutorium: folgt (Swantje Kastrup), per Zoom (Link s. Moodle)
 
 ## Moodle-Kursseite:
 
-**https://moodle.lmu.de/course/view.php?id=5786**
+**https://moodle.lmu.de/course/view.php?id=11885**
 
 - Die Anmeldung ist verpflichtend. Aktuelle Mitteilungen (Zoom-Links etc.) sowie die Verwaltung der Informatik-Hauptfach-Studierenden erfolgen hier.
 - Hauptfach-spezifische **Einschreibeschlüssel werden per LSF-Rundmail bekanntgegeben**.
