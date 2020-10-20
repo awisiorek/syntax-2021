@@ -13,7 +13,7 @@
 
 Vorlesung: Di 10-12 (Axel Wisiorek), per Zoom (Link s. Moodle)
 
-Übung: Mi 14-10:00 (Martin Schmitt), per Zoom (Link s. Moodle)
+Übung: Mi 14-10 (Martin Schmitt), per Zoom (Link s. Moodle)
 
 Tutorium: folgt (Swantje Kastrup), per Zoom (Link s. Moodle)
 
