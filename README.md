@@ -57,7 +57,7 @@ Tutorium: Do 12-14 (Swantje Kastrup), per Zoom (Link s. Moodle)
 
 | Datum  | Termin | 
 | ------------- | ------------- | 
-|  folgt |   | 
+|  Sa, 06.03.2021 | 10 Uhr  (*open-book*-Klausur) | 
 
 
 ## Literatur:
