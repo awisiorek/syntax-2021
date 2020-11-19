@@ -1,4 +1,4 @@
-##### Glossar zur Grammatik des Deutschen: 
+### Glossar zur Grammatik des Deutschen: 
 
 **Unter https://grammis.ids-mannheim.de/terminologie finden Sie ein Online-Glossar zur deutschen Grammatik.**
 
@@ -7,7 +7,7 @@ Eine Auswahl wichtiger Einträge:
 - Phrase: https://grammis.ids-mannheim.de/terminologie/2009
 - syntaktische Funktion: https://grammis.ids-mannheim.de/terminologie/1821
 
-##### Systematische Beschreibung der Grammatik des Deutschen: 
+### Systematische Beschreibung der Grammatik des Deutschen: 
 
 **Unter https://grammis.ids-mannheim.de/progr@mm finden Sie die Online-Version einer deutschen Grammatik.**
 
