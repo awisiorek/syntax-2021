@@ -174,7 +174,8 @@ class SelectionList(widgets.VBox):
         self.richtig = correct    
         
         def makeAnswers(correct, wrong):    
-            allAnsw = ["Keine der Alternativen"] + wrong
+            allAnsw = ["Keine der Alternativen"] if sonst else []
+            allAnsw.extend(wrong)
             allAnsw.append(correct)
             allAnsw.sort()
             return allAnsw
