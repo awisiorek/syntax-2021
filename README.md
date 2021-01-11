@@ -48,12 +48,12 @@ Tutorium: Do 12-14 (Swantje Kastrup), per Zoom (Link s. Moodle)
 | Di, 12.01.21| 9. Parsing CFGs |  
 | Di, 19.01.21| 10. Parsing Unifikation |  
 | Di, 26.01.21| 11. Statistische Syntaxmodelle |  
-| Di, 02.02.21| 12. Datengestützte Syntaxmodelle | 
-| Di, 09.02.21| 13. Partielles Parsing  | 
+| Di, 02.02.21| 12. Datengestützte Syntaxmodelle + *Klausurvorbereitung* | 
+| Di, 09.02.21| 13. Partielles Parsing + *Exkurs: Neural-Dependency-Parsing*  | 
+
 
 
 ## Klausur:
-
 
 | Datum  | Termin | 
 | ------------- | ------------- | 
