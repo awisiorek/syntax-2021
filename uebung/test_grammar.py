@@ -11,6 +11,6 @@ parser = load_parser(args.grammar)
 trees = parser.parse(args.sentence)
 i = -1
 for i, tree in enumerate(trees):
-    tree.draw()
+    tree.pretty_print()
 if i < 0:
     print("Satz nicht akzeptiert!")
